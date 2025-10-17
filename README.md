@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Yaghob 👋
 
-<!--
-**Yaghobyy/yaghobyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 Who I Am?
+💻 Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Backend:** Laravel, PHP, Node.js, Express, MySQL, MongoDB  
+- **Frontend:** React, Livewire, Filament, InertiaJs 
+- **Mobile:** Java, Android Studio  
+- **Desktop:** Electron.js  
+- **Tools & Platforms:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Why Me?
+
+1. 🧠 understanding needs  
+2. 🧩 creating structure  
+3. 💻 writing clean code  
+4. 🧪 ensuring quality  
+5. 🚀 delivering product  
+6. 🔁 continuous improvement
+
+### 💬 Portfoliooo 🎵
+
+- 🌐 [yaghobyy.ir](https://yaghobyy.ir)  
+- 🔗 and more...
+
+
+For more of my skills and projects, visit my [personal website](https://yaghobyy.ir).  
+Thank you!
+
